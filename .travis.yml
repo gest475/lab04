@@ -1,0 +1,11 @@
+language: cpp
+
+compiler:
+  - gcc
+  - clang
+
+script:
+  - mkdir build && cd build
+  - cmake ..
+  - cmake --build .
+  - ./hello_world_application/hello_world
