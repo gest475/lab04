@@ -1,5 +1,7 @@
 # Лабораторная работа №4 — CI/CD (GitHub Actions)
 
+## Выполнил: Артеменко Арина ИУ8-22
+
 [![CMake CI](https://github.com/gest475/lab04/actions/workflows/cmake.yml/badge.svg)](https://github.com/gest475/lab04/actions/workflows/cmake.yml)
 
 ## Цель
